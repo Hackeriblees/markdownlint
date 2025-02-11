@@ -1,4 +1,4 @@
-# Descriptive link text
+# Descriptive Link Text
 
 [Learn about Javascript](https://example.com/javascript/about)
 
@@ -30,3 +30,10 @@ Go to this [link]((https://example.com/second)). {MD059}
 
 {MD059} [click
 here](https://example.com)
+
+[link](destination) {MD059}
+[*link*](destination) {MD059}
+[_link_](destination) {MD049} {MD059}
+[~~link~~](destination) {MD059}
+[`link`](destination)
+[<link>](destination) {MD033}
