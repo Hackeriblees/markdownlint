@@ -2567,6 +2567,8 @@ names, set `link_texts` in the config.
 
 Note: This rule checks Markdown-style links and ignores HTML-style links.
 
+More information: <https://webaim.org/techniques/hypertext/>
+
 <!-- markdownlint-configure-file {
   "no-inline-html": {
     "allowed_elements": [
