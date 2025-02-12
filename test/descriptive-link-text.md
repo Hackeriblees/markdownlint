@@ -8,11 +8,11 @@ Learn about [our mission](https://example.com/mission).
 
 Go [here](https://example.com/descriptive-links) {MD059}
 
-[Learn more](https://example.com/images/about) about us. {MD059}
+[Learn more](https://example.com/images/about) about us.
 
 [Click here](https://example.com/dir/file.txt). {MD059}
 
-[read more](https://example.com/guide). {MD059}
+[Read more](https://example.com/guide).
 
 To get more support, go [here!](https://example.com/contact). {MD059}
 
